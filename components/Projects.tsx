@@ -22,11 +22,6 @@ export default function Projects() {
       description: "Next.js, NestJS, MongoDB, Clerk, Socket.IO",
       link: "https://tasks-managment-xbg5.vercel.app/dashboard",
       image: "/Screenshot 2026-07-17 234209.png"
-    },
-    {
-      title: "Language Learning Platform",
-      category: "Mobile App",
-      description: "React Native, Expo, Stream Video/Chat SDK"
     }
   ];
 

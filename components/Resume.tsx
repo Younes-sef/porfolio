@@ -70,17 +70,7 @@ export default function Resume() {
               </ul>
             }
           />
-          <TimelineItem 
-            title="Language Learning Platform" 
-            date="React Native, Expo, Stream Video/Chat SDK"
-            description={
-              <ul className="list-disc list-outside ml-4 space-y-1">
-                <li>Built a mobile app for live language practice using React Native and Expo.</li>
-                <li>Integrated Stream Video/Chat SDK for real-time communication with an AI teacher (video and messaging).</li>
-                <li>Designed a smooth and engaging UX with React Native Reanimated, including animations and interactive feedback.</li>
-              </ul>
-            }
-          />
+
         </div>
       </section>
 
